@@ -9,4 +9,4 @@ In this todo app, you can easily add, edit, or delete your task. There are filte
 ## Feedback
 
 If you have any feedback, please reach out to me at 
- bhashkarsushma83@gmail.com
+ shivanshulovescoding@gmail.com
